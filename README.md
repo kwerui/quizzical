@@ -1,16 +1,56 @@
-# React + Vite
+# Quizzical
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An interactive React quiz application where users answer multiple-choice questions and test their knowledge through dynamically generated quizzes.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Quiz Screen
 
-## React Compiler
+<img width="1512" height="842" alt="image" src="https://github.com/user-attachments/assets/64baed6e-6d36-4502-a260-a1b1843a6bf3" />
+<img width="1512" height="836" alt="image" src="https://github.com/user-attachments/assets/9c8c1ed0-69bd-4a5e-9d0b-ef16c82202bb" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
+### Results Screen
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+<img width="1512" height="839" alt="image" src="https://github.com/user-attachments/assets/ea28f623-d52c-4380-8069-e5bc46fb71e6" />
+
+## About the Project
+
+Quizzical is a React-based quiz application focused on creating an interactive and engaging user experience.
+
+Users can select answers, submit their quiz, and receive their final score. The project demonstrates working with React components, state management, user interactions, and external data.
+
+## Features
+
+- Dynamic quiz questions
+- Multiple-choice answer selection
+- Answer checking and scoring
+- Interactive user interface
+- Responsive design
+
+## Tech Stack
+
+- React
+- JavaScript
+- Vite
+- CSS
+- API integration
+
+## What I Learned
+
+- Managing state and user interactions in React
+- Building reusable components
+- Passing data between components
+- Handling API responses and dynamic content
+- Structuring a frontend application
+
+## Development Approach
+
+This project was built while developing my React skills. I focused on understanding component architecture, state management, and creating a clear user experience.
+
+## Running Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kwerui/quizzical.git
